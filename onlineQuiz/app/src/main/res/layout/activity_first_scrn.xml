@@ -72,13 +72,13 @@
         android:id="@+id/choice3"/>
 
     <Button
+        android:id="@+id/quit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="quite"
-        android:background="#871C1C"
-        android:textColor="#fff"
-        android:padding="8dp"
         android:layout_marginBottom="24dp"
-        android:id="@+id/quite"/>
+        android:background="#871C1C"
+        android:padding="8dp"
+        android:text="quite"
+        android:textColor="#fff" />
 
 </LinearLayout>
