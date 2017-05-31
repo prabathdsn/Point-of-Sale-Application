@@ -8,7 +8,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 
-/*
+
 
 
 public class CustomProgressBarActivity extends AppCompatActivity {
@@ -47,18 +47,22 @@ public class CustomProgressBarActivity extends AppCompatActivity {
                         pStatus++;
                     }
 
+
                         Intent openStart=new Intent("com.example.prabath.progressbar.START");
                         startActivity(openStart);
+
 
 
                 }
             }).start();
 
         }
+
     protected void onPause() {
         super.onPause();
         finish();
     }
+
 
     }
 

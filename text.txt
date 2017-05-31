@@ -1,6 +1,0 @@
-Hello android
-
-
-
-second commit 
-hello world
