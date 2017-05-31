@@ -38,7 +38,7 @@ public class CustomProgressBarActivity extends AppCompatActivity {
                             }
                         });
                         try {
-                            Thread.sleep(100);
+                            Thread.sleep(35);
                         } catch (InterruptedException e) {
                             e.printStackTrace();
                         }
@@ -47,22 +47,18 @@ public class CustomProgressBarActivity extends AppCompatActivity {
                         pStatus++;
                     }
 
-
                         Intent openStart=new Intent("com.example.prabath.progressbar.START");
                         startActivity(openStart);
-
 
 
                 }
             }).start();
 
         }
-
     protected void onPause() {
         super.onPause();
         finish();
     }
-
 
     }
 
