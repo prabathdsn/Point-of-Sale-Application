@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cash reg">
+</Property><Property Name="Solution File" Value="D:\My edit\Project\Cash reg.sln">
+</Property><Property Name="Date" Value="Tuesday, November 4, 2014">
+</Property><Property Name="Time" Value="11:11">
+</Property></Properties><Event ErrorLevel="0" Project="Cash reg" Source="Project\Cash reg.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Cash reg" Source="Project\Cash reg.csproj" Description="No Conversion Required">
+</Event></UpgradeLog>
